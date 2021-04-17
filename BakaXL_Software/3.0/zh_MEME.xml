@@ -12,101 +12,101 @@
 			<Item Key="NoUserName">您游戏ID没写</Item>
 			
 			<Item Key="Loading">载入中</Item>
-			<Item Key="PleaseWait">请稍等…</Item>
-			<Item Key="LoadingPlugins">插件</Item>
+			<Item Key="PleaseWait">您再等等…</Item>
+			<Item Key="LoadingPlugins">外挂（无误）</Item>
 
-			<Item Key="Window_ReportIssue_Title">反馈问题</Item>
-			<Item Key="Window_ReportIssue_Tips">前往BakaXL官方Github仓库提交Issues</Item>
+			<Item Key="Window_ReportIssue_Title">投诉问题</Item>
+			<Item Key="Window_ReportIssue_Tips">跑到BakaXL官方Gayhub仓库然后用Issues轰炸</Item>
 			
-			<Item Key="Window_GetHelp_Title">获取帮助</Item>
-			<Item Key="Window_GetHelp_Tips">遇到问题？不会使用？访问我们的帮助页面</Item>
+			<Item Key="Window_GetHelp_Title">你是否有很多问号?¿?¿?¿</Item>
+			<Item Key="Window_GetHelp_Tips">遇到问题？整蒙了？这啥玩意儿啊？即刻访问我们的帮助页面</Item>
 
-			<Item Key="Window_HomeMenu_Btn">主页</Item>
+			<Item Key="Window_HomeMenu_Btn">家</Item>
 
 			<Item Key="LaunchBar_Hello">您好！{0}</Item>
-			<Item Key="LaunchBar_Launch">启动游戏</Item>
-			<Item Key="LaunchBar_NoCore">&lt;尚未选择核心&gt;</Item>
+			<Item Key="LaunchBar_Launch">开始铲车</Item>
+			<Item Key="LaunchBar_NoCore">&lt;尚未选择铲车型号&gt;</Item>
 
-			<Item Key="LaunchBar_SelectCore_Animation_Title">选择游戏核心的方法</Item>
-			<Item Key="LaunchBar_SelectCore_Animation_Click">按住 &quot;启动游戏&quot; 按钮</Item>
-			<Item Key="LaunchBar_SelectCore_Animation_Drag">向右拖拽</Item>
+			<Item Key="LaunchBar_SelectCore_Animation_Title">选择铲车型号的方法</Item>
+			<Item Key="LaunchBar_SelectCore_Animation_Click">按住 &quot;开始铲车&quot; 按钮</Item>
+			<Item Key="LaunchBar_SelectCore_Animation_Drag">向右使劲儿拉</Item>
 
-			<Item Key="LaunchBar_SelectCore_BtnTitle">切换 Minecraft 游戏核心</Item>
+			<Item Key="LaunchBar_SelectCore_BtnTitle">切换 Minecraft 铲车型号</Item>
 
-			<Item Key="LaunchBar_SelectCore_Title">选择核心</Item>
-			<Item Key="LaunchBar_SelectCore_Management">核心管理</Item>
-			<Item Key="LaunchBar_SelectCore_Management_Tips">选择、调整和管理你的游戏核心</Item>
-			<Item Key="LaunchBar_SelectCore_DragEasterEgg">别拽啦！</Item>
+			<Item Key="LaunchBar_SelectCore_Title">选择您的铲车</Item>
+			<Item Key="LaunchBar_SelectCore_Management">铲车管理</Item>
+			<Item Key="LaunchBar_SelectCore_Management_Tips">选择、调整和管理你的铲车</Item>
+			<Item Key="LaunchBar_SelectCore_DragEasterEgg">反正这里是彩蛋文本我塞什么你们都不会注意到的（小声bb</Item>
 
-			<Item Key="LaunchBar_LaunchBtn_Error_Title">无法启动游戏</Item>
-			<Item Key="LaunchBar_LaunchBtn_Error_NoProfile">未设置用户档案</Item>
-			<Item Key="LaunchBar_LaunchBtn_Error_NoCore">尚未设置游戏核心</Item>
-			<Item Key="LaunchBar_LaunchBtn_Error_NoCoreFolder">核心文件夹不存在</Item>
-			<Item Key="LaunchBar_LaunchBtn_Error_AuthError">账户验证错误</Item>
+			<Item Key="LaunchBar_LaunchBtn_Error_Title">无法打着铲车</Item>
+			<Item Key="LaunchBar_LaunchBtn_Error_NoProfile">身份证没带</Item>
+			<Item Key="LaunchBar_LaunchBtn_Error_NoCore">铲车没了</Item>
+			<Item Key="LaunchBar_LaunchBtn_Error_NoCoreFolder">车库没了</Item>
+			<Item Key="LaunchBar_LaunchBtn_Error_AuthError">身份证过期了</Item>
 			
-			<Item Key="LaunchBar_LaunchBtn_Error_UnknownError_Title">遇到错误</Item>
-			<Item Key="LaunchBar_LaunchBtn_Error_UnknownError_Tips">启动中出现了错误</Item>
+			<Item Key="LaunchBar_LaunchBtn_Error_UnknownError_Title">炸了</Item>
+			<Item Key="LaunchBar_LaunchBtn_Error_UnknownError_Tips">不知道咋回事，就炸了</Item>
 
 			<Item Key="LaunchBar_LaunchBtn_Launching_Title">正在启动...</Item>
 			<Item Key="LaunchBar_LaunchBtn_Launching_Tips">Minecraft即将准备就绪</Item>
 
-			<Item Key="LaunchBar_LaunchBtn_Launching_Steps_CreateCore">正在创建启动核心</Item>
-			<Item Key="LaunchBar_LaunchBtn_Launching_Steps_CheckLib">正在检查Minecraft运行库</Item>
-			<Item Key="LaunchBar_LaunchBtn_Launching_Steps_DownloadLib">正在下载Minecraft支持库 {0}</Item>
-			<Item Key="LaunchBar_LaunchBtn_Launching_Steps_CheckAssets">正在检查Minecraft资源文件</Item>
-			<Item Key="LaunchBar_LaunchBtn_Launching_Steps_DownloadAssets">正在下载Minecraft资源文件</Item>
-			<Item Key="LaunchBar_LaunchBtn_Launching_Steps_GenParameter">正在生成参数</Item>
+			<Item Key="LaunchBar_LaunchBtn_Launching_Steps_CreateCore">正在创建铲车</Item>
+			<Item Key="LaunchBar_LaunchBtn_Launching_Steps_CheckLib">正在检查Minecraft运行裤</Item>
+			<Item Key="LaunchBar_LaunchBtn_Launching_Steps_DownloadLib">正在寻回Minecraft支持裤 {0}</Item>
+			<Item Key="LaunchBar_LaunchBtn_Launching_Steps_CheckAssets">正在检查Minecraft亮目害眼文件</Item>
+			<Item Key="LaunchBar_LaunchBtn_Launching_Steps_DownloadAssets">正在下载Minecraft亮目害眼文件</Item>
+			<Item Key="LaunchBar_LaunchBtn_Launching_Steps_GenParameter">正在召唤符文</Item>
 			<Item Key="LaunchBar_LaunchBtn_Launching_Steps_CheckAuthlib">正在检查Authlib-Injector</Item>
 			<Item Key="LaunchBar_LaunchBtn_Launching_Steps_CheckAuthlib_GetInfo">正在获取Authlib-Injector下载信息</Item>
 			<Item Key="LaunchBar_LaunchBtn_Launching_Steps_CheckAuthlib_Download">正在下载Authlib-Injector</Item>
-			<Item Key="LaunchBar_LaunchBtn_Launching_Steps_CheckPlugin">正在执行BakaXL插件定义的操作</Item>
+			<Item Key="LaunchBar_LaunchBtn_Launching_Steps_CheckPlugin">正在执行BakaXL外挂定义的操作</Item>
 
-			<Item Key="LaunchBar_LaunchBtn_Launching_Environment_JavaNotExist">Java路径已变动，正在重新定位</Item>
-			<Item Key="LaunchBar_LaunchBtn_Launching_Environment_NewJavaFound">BakaXL将使用新的Java路径启动Minecraft</Item>
+			<Item Key="LaunchBar_LaunchBtn_Launching_Environment_JavaNotExist">Jvav路径变了，正在重新找</Item>
+			<Item Key="LaunchBar_LaunchBtn_Launching_Environment_NewJavaFound">BakaXL将使用新的Jvav路径启动Minecraft</Item>
 			
-			<Item Key="LaunchBar_LaunchBtn_Launching_Steps_CheckEnvironment">发射模式: 检查和补全Minecraft环境</Item>
+			<Item Key="LaunchBar_LaunchBtn_Launching_Steps_CheckEnvironment">发射模式: 检查和补全Minecraft路面配置</Item>
 
-			<Item Key="LaunchBar_LaunchBtn_Launched_Title">游戏运行中</Item>
-			<Item Key="LaunchBar_LaunchBtn_Launched_Tips">&lt;当前正在运行中&gt;</Item>
+			<Item Key="LaunchBar_LaunchBtn_Launched_Title">正在铲车</Item>
+			<Item Key="LaunchBar_LaunchBtn_Launched_Tips">&lt;当前正在铲车&gt;</Item>
 
-			<Item Key="LaunchBar_ToolTip_DownloadLib">正在下载Minecraft支持库&#xD;&#xA;文件名：{0}&#xD;&#xA;路径：{1}</Item>
+			<Item Key="LaunchBar_ToolTip_DownloadLib">正在下载Minecraft支持裤&#xD;&#xA;文件名：{0}&#xD;&#xA;路径：{1}</Item>
 
 			<Item Key="LaunchBar_Title_Launched">已使用 {0} 的身份运行游戏</Item>
-			<Item Key="LaunchBar_Title_AuthError">验证时出现错误：用户名或密码错误</Item>
-			<Item Key="LaunchBar_Title_AuthError_Unknown">验证时出现错误：未知错误</Item>
-			<Item Key="LaunchBar_Title_AuthError_MojangTokenExpired">验证时出现错误：会话验证信息过期，请在本体设置重新登录此用户档案</Item>
-			<Item Key="LaunchBar_Title_AuthError_AuthlibTokenExpired">验证时出现错误：档案验证信息失效，请重新设置此用户档案</Item>
-			<Item Key="LaunchBar_Title_AuthError_MicrosoftLoginCanceled">验证时出现错误：微软账户登录被用户取消</Item>
-			<Item Key="LaunchBar_Title_EnvironmentError_JavaNotFound">环境检查错误：无法定位Java路径</Item>
-			<Item Key="LaunchBar_Title_GameError_GetAssetsListFailed">资源补全错误：无法从下载源获取Minecraft资源文件列表</Item>
-			<Item Key="LaunchBar_Title_GameError_GetAuthlibFailed">资源补全错误：无法下载Authlib-Injector本体</Item>
-			<Item Key="LaunchBar_Title_LaunchModeError_CheckGameFailed">发射模式错误：检查Minecraft环境出错</Item>
+			<Item Key="LaunchBar_Title_AuthError">身份证不对劲：名字或密码不对</Item>
+			<Item Key="LaunchBar_Title_AuthError_Unknown">身份证不对劲：我也不知道怎么了卧槽</Item>
+			<Item Key="LaunchBar_Title_AuthError_MojangTokenExpired">身份证不对劲：过期了，请在本体设置重新注册</Item>
+			<Item Key="LaunchBar_Title_AuthError_AuthlibTokenExpired">身份证不对劲：身份证验证信息失效，请重新注册</Item>
+			<Item Key="LaunchBar_Title_AuthError_MicrosoftLoginCanceled">身份证不对劲：巨硬账户登录被您自己点取消了</Item>
+			<Item Key="LaunchBar_Title_EnvironmentError_JavaNotFound">路面有点崎岖：找不到Jvav路径</Item>
+			<Item Key="LaunchBar_Title_GameError_GetAssetsListFailed">亮目害了：无法从下载源获取Minecraft亮目害眼文件列表</Item>
+			<Item Key="LaunchBar_Title_GameError_GetAuthlibFailed">亮目害了：无法下载Authlib-Injector本体</Item>
+			<Item Key="LaunchBar_Title_LaunchModeError_CheckGameFailed">发射模式错误：检查Minecraft路面配置出错</Item>
 
-			<Item Key="UserSelector_Launch_Title">哪个用户将用于启动Minecraft？</Item>
-			<Item Key="UserSelector_Authlib_SelectProfile">该账户拥有的多个角色，选择一个角色</Item>
-			<Item Key="UserSelector_Default_Title">选择一个账户</Item>
+			<Item Key="UserSelector_Launch_Title">哪个身份证将用于铲车？</Item>
+			<Item Key="UserSelector_Authlib_SelectProfile">该账户拥有的多个马甲，选一个马甲</Item>
+			<Item Key="UserSelector_Default_Title">选个账户</Item>
 
-			<Item Key="UserProfile_ToolTip_Offline">用户名：{0} &#xD;&#xA;此用户档案将使用离线验证</Item>
-			<Item Key="UserProfile_ToolTip_Online">用户名：{0} &#xD;&#xA;此用户档案将使用Mojang正版验证</Item>
-			<Item Key="UserProfile_ToolTip_Online_Microsoft">用户名：{0} &#xD;&#xA;此用户档案将使用微软账户正版验证</Item>
-			<Item Key="UserProfile_ToolTip_ThirParty_WithoutName">用户名：{0} &#xD;&#xA;此用户档案将使用第三方账户验证服务器&#xD;&#xA;验证服务器地址：{1}</Item>
-			<Item Key="UserProfile_ToolTip_ThirParty_WithName">用户名：{0} &#xD;&#xA;此用户档案将使用 {1} 提供的账户验证服务器&#xD;&#xA;验证服务器地址：{2}</Item>
+			<Item Key="UserProfile_ToolTip_Offline">用户名：{0} &#xD;&#xA;此身份证将使用离线验证</Item>
+			<Item Key="UserProfile_ToolTip_Online">用户名：{0} &#xD;&#xA;此身份证将使用Bugjump正版验证</Item>
+			<Item Key="UserProfile_ToolTip_Online_Microsoft">用户名：{0} &#xD;&#xA;此身份证将使用巨硬账户正版验证</Item>
+			<Item Key="UserProfile_ToolTip_ThirParty_WithoutName">用户名：{0} &#xD;&#xA;此身份证将使用第三方账户验证服务器&#xD;&#xA;验证服务器地址：{1}</Item>
+			<Item Key="UserProfile_ToolTip_ThirParty_WithName">用户名：{0} &#xD;&#xA;此身份证将使用 {1} 提供的账户验证服务器&#xD;&#xA;验证服务器地址：{2}</Item>
 
-			<Item Key="HomeIdentifier_Screen_Home">主页</Item>
+			<Item Key="HomeIdentifier_Screen_Home">家</Item>
 			<Item Key="HomeIdentifier_Screen_Menu">开始</Item>
 
-			<Item Key="CoreSelector_Title">核心</Item>
+			<Item Key="CoreSelector_Title">铲车</Item>
 			<Item Key="CoreSelector_DisplayMode">显示：</Item>
 
-			<Item Key="CoreSelector_Empty_Title">空的</Item>
-			<Item Key="CoreSelector_Empty_Tips">瞧，这里啥东西也没有</Item>
+			<Item Key="CoreSelector_Empty_Title">咩都冇</Item>
+			<Item Key="CoreSelector_Empty_Tips">你看了个寂寞</Item>
 
-			<Item Key="CoreSelector_Loading_Title">稍安勿躁</Item>
-			<Item Key="CoreSelector_Loading_Tips">核心们正在排队站好</Item>
+			<Item Key="CoreSelector_Loading_Title">您急啥？</Item>
+			<Item Key="CoreSelector_Loading_Tips">铲车们正在排队站好</Item>
 			
 			<Item Key="CoreSelector_DisplayMode_All">全部</Item>
 			<Item Key="CoreSelector_DisplayMode_Favorite">我的收藏</Item>
-			<Item Key="CoreSelector_DisplayMode_Vanilla">仅原版</Item>
+			<Item Key="CoreSelector_DisplayMode_Vanilla">仅香草</Item>
 			<Item Key="CoreSelector_DisplayMode_Forge">仅Forge</Item>
 			<Item Key="CoreSelector_DisplayMode_Fabric">仅Fabric</Item>
 			<Item Key="CoreSelector_DisplayMode_Liteloader">仅Liteloader</Item>
@@ -117,39 +117,39 @@
 			<Item Key="CoreSelector_Type_Major">正式版本</Item>
 			<Item Key="CoreSelector_Type_Snapshot">快照</Item>
 
-			<Item Key="CoreSelector_CoreError_JsonError">异常 - Json文件错误或不符合规范</Item>
-			<Item Key="CoreSelector_CoreError_NoinheritsFrom">异常 - 缺少依赖的Minecraft核心</Item>
-			<Item Key="CoreSelector_CoreError_NoJarFile">异常 - 缺少运行所需的Jar文件</Item>
-			<Item Key="CoreSelector_CoreError_NoJsonFile">异常 - Json文件缺失或文件名错误</Item>
-			<Item Key="CoreSelector_CoreError_NotCompatible">错误 - 损毁、不受兼容的核心或整合包</Item>
+			<Item Key="CoreSelector_CoreError_JsonError">异常 - Jason文件错误或不符合规范</Item>
+			<Item Key="CoreSelector_CoreError_NoinheritsFrom">异常 - 缺少依赖的铲车</Item>
+			<Item Key="CoreSelector_CoreError_NoJarFile">异常 - 缺少运行所需的发动机</Item>
+			<Item Key="CoreSelector_CoreError_NoJsonFile">异常 - Jason文件缺失或文件名错误</Item>
+			<Item Key="CoreSelector_CoreError_NotCompatible">错误 - 损毁、不受兼容的铲车或马超</Item>
 
-			<Item Key="CoreSelector_GetCore_Title">添加新的 Minecraft 核心 或 整合包</Item>
+			<Item Key="CoreSelector_GetCore_Title">添加新的 铲车 或 马超</Item>
 			
-			<Item Key="CoreManagement_Title">高级核心管理</Item>
-			<Item Key="CoreManagement_Publisher">发行者: {0}</Item>
-			<Item Key="CoreManagement_Publisher_None">尚无发行者</Item>
-			<Item Key="CoreManagement_LastPlayed">最近游玩于 {0}</Item>
-			<Item Key="CoreManagement_LastPlayed_None">尚未运行过</Item>
+			<Item Key="CoreManagement_Title">进阶铲车管理</Item>
+			<Item Key="CoreManagement_Publisher">发布者: {0}</Item>
+			<Item Key="CoreManagement_Publisher_None">尚无发布者</Item>
+			<Item Key="CoreManagement_LastPlayed">最后一次铲车 {0}</Item>
+			<Item Key="CoreManagement_LastPlayed_None">大爸爸！</Item>
 			
-			<Item Key="CoreManagement_Tips_Locked_MCVersion">某些选项不可用，因为Minecraft版本过低。</Item>
-			<Item Key="CoreManagement_Tips_Locked_ModPack">某些选项不可用，因为它们由您的整合包提供者管理。</Item>
-			<Item Key="CoreManagement_Tips_Locked_Server">某些选项不可用，因为它们由此整合包对应的服务器管理。</Item>
+			<Item Key="CoreManagement_Tips_Locked_MCVersion">某些选项不可用，因为铲车太旧了。</Item>
+			<Item Key="CoreManagement_Tips_Locked_ModPack">某些选项不可用，因为它们由您的马超提供者管理。</Item>
+			<Item Key="CoreManagement_Tips_Locked_Server">某些选项不可用，因为它们由此马超对应的服务器管理。</Item>
 			
-			<Item Key="CoreManagement_Tips_Error_Json">此核心所使用的Json文件不是规范的Minecraft游戏核心标识文件。</Item>
-			<Item Key="CoreManagement_Tips_Error_Json_Broken">此核心的Json文件损坏，BakaXL无法读取。</Item>
-			<Item Key="CoreManagement_Tips_Error_Unsupported">此核心使用了其他启动器特有的标识格式，BakaXL无法读取。</Item>
-			<Item Key="CoreManagement_Tips_Error_Jar_Missing">此核心所需的Jar文件不存在。</Item>
-			<Item Key="CoreManagement_Tips_Error_Inherits_Missing">此核心所依赖的Minecraft核心不存在。</Item>
+			<Item Key="CoreManagement_Tips_Error_Json">此铲车所使用的Jason文件不是规范的Minecraft铲车标识文件。</Item>
+			<Item Key="CoreManagement_Tips_Error_Json_Broken">此铲车的Jason文件写的太丑了，BakaXL看不懂欸。</Item>
+			<Item Key="CoreManagement_Tips_Error_Unsupported">此铲车使用了其他启动器特有的申必文字，BakaXL看不懂欸。</Item>
+			<Item Key="CoreManagement_Tips_Error_Jar_Missing">此铲车所需的发动机不存在。</Item>
+			<Item Key="CoreManagement_Tips_Error_Inherits_Missing">此铲车所依赖的其他铲车不存在。</Item>
 			
-			<Item Key="CoreManagement_Tips_Suggest_Reset">此核心需要重置才可以正常使用，前往 &quot;恢复 > 重置此核心&quot;。</Item>
-			<Item Key="CoreManagement_Tips_Suggest_AutoRepare">BakaXL可尝试修复此核心，前往 &quot;恢复 > 自动修复&quot;。</Item>
+			<Item Key="CoreManagement_Tips_Suggest_Reset">此铲车需要完全重修才可以正常使用，前往 &quot;恢复 > 完全重修此铲车&quot;。</Item>
+			<Item Key="CoreManagement_Tips_Suggest_AutoRepare">BakaXL可尝试修复此铲车，前往 &quot;恢复 > 自动修复&quot;。</Item>
 			<Item Key="CoreManagement_Tips_Suggest_Shader">若要加载Minecraft光影文件，则可能需要安装 &quot;Optifine&quot;。</Item>
 			
-			<Item Key="CoreManagement_Tips_Warn_Mod_Unsupported">此核心不支持安装模组(Mods)。</Item>
+			<Item Key="CoreManagement_Tips_Warn_Mod_Unsupported">此铲车不支持安装模组(Mods)。</Item>
 			
 			<Item Key="CoreManagement_Page_Info">信息</Item>
 			<Item Key="CoreManagement_Page_Mod">模组(Mods)</Item>
-			<Item Key="CoreManagement_Page_ResourcePack">资源包</Item>
+			<Item Key="CoreManagement_Page_ResourcePack">亮目害眼包</Item>
 			<Item Key="CoreManagement_Page_ShaderPack">光影包</Item>
 			<Item Key="CoreManagement_Page_Config">游戏/模组配置</Item>
 			<Item Key="CoreManagement_Page_Advance">高级启动</Item>
@@ -157,47 +157,47 @@
 			<Item Key="CoreManagement_Page_Restore">恢复 / 删除</Item>
 			
 			<Item Key="CoreManagement_Info_Description">简介</Item>
-			<Item Key="CoreManagement_Info_Description_None">这里空空的，啥介绍都没有。</Item>
-			<Item Key="CoreManagement_Info_PlayTime">游玩时间</Item>
-			<Item Key="CoreManagement_Info_PlayTime_Text">自 {0} 最后一次运行以来，此核心已累计运行 {1} 。</Item>
-			<Item Key="CoreManagement_Info_PlayTime_NeverPlayed_Text">此核心自安装日以来就从来没有运行过，真难过。</Item>
+			<Item Key="CoreManagement_Info_Description_None">作者咕了，啥介绍都没有。</Item>
+			<Item Key="CoreManagement_Info_PlayTime">啊wee改时间</Item>
+			<Item Key="CoreManagement_Info_PlayTime_Text">自 {0} 最后一次运行以来，此铲车已累计开了 {1} 。</Item>
+			<Item Key="CoreManagement_Info_PlayTime_NeverPlayed_Text">此铲车自安装日以来就一直没看到大爸爸，真系悲伤。</Item>
 			<Item Key="CoreManagement_Info_Version">版本</Item>
 
 			<Item Key="CoreManagement_Mods_Title">模组(Mods)</Item>
 			
-			<Item Key="CoreManagement_Mods_Supported">此核心或整合包安装了支持的模组API。</Item>
-			<Item Key="CoreManagement_Mods_Unsupported">此核心或整合包好像并未使用支持加载模组的模组API。&#xD;&#xA;若您要使用模组，则应当先安装Forge、Farbic或其他模组API。&#xD;&#xA;&#xD;&#xA;若您认为BakaXL错误的认为该核心或整合包没有安装模组API，请联系我们。</Item>
+			<Item Key="CoreManagement_Mods_Supported">此铲车或马超安装了支持的模组API。</Item>
+			<Item Key="CoreManagement_Mods_Unsupported">此铲车或马超好像并未使用支持加载模组的模组API。&#xD;&#xA;若您要使用模组，则应当先安装Forge、Farbic或其他模组API。&#xD;&#xA;&#xD;&#xA;若您认为BakaXL错误的认为该核心或整合包没有安装模组API，请联系我们。</Item>
 			
-			<Item Key="CoreManagement_Mods_ModLoader_Scanning">正在扫描核心的模组API...</Item>
-			<Item Key="CoreManagement_Mods_ModLoader_Forge">此核心安装了 Minecraft Forge，版本：{0}</Item>
-			<Item Key="CoreManagement_Mods_ModLoader_Fabric">此核心安装了 Fabric Loader/API。版本：{0}</Item>
-			<Item Key="CoreManagement_Mods_ModLoader_Liteloader">此核心安装了 Liteloader。版本：{0}</Item>
+			<Item Key="CoreManagement_Mods_ModLoader_Scanning">正在扫描铲车的模组API...</Item>
+			<Item Key="CoreManagement_Mods_ModLoader_Forge">此铲车安装了 Minecraft Forge，版本：{0}</Item>
+			<Item Key="CoreManagement_Mods_ModLoader_Fabric">此铲车安装了 Fabric Loader/API。版本：{0}</Item>
+			<Item Key="CoreManagement_Mods_ModLoader_Liteloader">此铲车安装了 Liteloader。版本：{0}</Item>
 
 			<Item Key="CoreManagement_Mods_ModList_Title">位于Mods文件夹</Item>
 			<Item Key="CoreManagement_Mods_ModList_DargTips">将模组拖入至此区域快速安装模组。</Item>
-			<Item Key="CoreManagement_Mods_ModList_Desc">BakaXL 将会扫描此核心的Mods文件夹，并将所有受支持的模组文件显示在此列表中。</Item>
+			<Item Key="CoreManagement_Mods_ModList_Desc">BakaXL 将会扫描此铲车的Mods文件夹，并将所有受支持的模组文件显示在此列表中。</Item>
 			<Item Key="CoreManagement_Mods_ModList_Scanning">正在扫描…</Item>
-			<Item Key="CoreManagement_Mods_ModList_NoMods">BakaXL 未在此核心或整合包中找到任何模组文件。</Item>
+			<Item Key="CoreManagement_Mods_ModList_NoMods">BakaXL 未在此铲车或马超中找到任何模组文件。</Item>
 
 			<Item Key="CoreManagement_Restore_Title">恢复</Item>
-			<Item Key="CoreManagement_Restore_Button">重置此核心</Item>
-			<Item Key="CoreManagement_Restore_Desc">如果Minecraft没有正常运行，重置核心可能会解决问题。重置时，BakaXL将会删除Libraries和核心的Json文件，然后尝试重新从笨蛋广场获取此版本。</Item>
-			<Item Key="CoreManagement_Restore_Delete_Title">删除此核心</Item>
-			<Item Key="CoreManagement_Restore_Delete_Button">从游戏目录中删除此Minecraft核心</Item>
-			<Item Key="CoreManagement_Restore_Delete_Desc">执行后将从当前游戏目录中永久删除此Minecraft游戏核心，其所包含的Mods、地图、截图等数据将会被同时删除。&#xD;&#xA;&#xD;&#xA;此操作过程不可逆。请谨慎操作。</Item>
-			<Item Key="CoreManagement_Restore_ClearCache_Title">清理垃圾文件</Item>
-			<Item Key="CoreManagement_Restore_ClearCache_Button">从该游戏核心中清理垃圾文件</Item>
-			<Item Key="CoreManagement_Restore_ClearCache_Desc">执行后将会清理掉无用的垃圾文件、日志文件等；通常情况下，这些文件清理后不会对您的游戏造成影响。</Item>
+			<Item Key="CoreManagement_Restore_Button">完全重修此铲车</Item>
+			<Item Key="CoreManagement_Restore_Desc">如果铲车坏了，完全重修此铲车可能会解决问题。重置时，BakaXL将会扔掉裤裤和核心的Jason文件，然后尝试重新从笨蛋广场获取此版本。</Item>
+			<Item Key="CoreManagement_Restore_Delete_Title">报废此铲车</Item>
+			<Item Key="CoreManagement_Restore_Delete_Button">从车库中完全抹杀此铲车的存在</Item>
+			<Item Key="CoreManagement_Restore_Delete_Desc">执行后将从车库中完全抹杀此铲车的存在，其所包含的Mods、地图、截图等数据将会被同时删除。&#xD;&#xA;&#xD;&#xA;此操作过程不可逆。请谨慎操作。</Item>
+			<Item Key="CoreManagement_Restore_ClearCache_Title">rm -rf /</Item>
+			<Item Key="CoreManagement_Restore_ClearCache_Button">从该铲车中rm -rf /</Item>
+			<Item Key="CoreManagement_Restore_ClearCache_Desc">将会执行rm -rf /，以清理掉无用的垃圾文件（rf stands for Rubbish File（迫真））、日志文件等；通常情况下，这些文件清理后不会对您的游戏造成影响。</Item>
 
-			<Item Key="StartMenuTipper_Title">向上拖动以进入开始菜单</Item>
+			<Item Key="StartMenuTipper_Title">使劲向上拉以进入开始菜单</Item>
 
 			<Item Key="Minute">分钟</Item>
 			<Item Key="Hour">小时</Item>
 
-			<Item Key="Core_HaveRun">累计运行</Item>
-			<Item Key="Core_InstallTime">安装于</Item>
-			<Item Key="Core_NeverRun">尚未运行</Item>
-			<Item Key="Core_Default_Description">这个核心累了，所以并没有介绍自己。</Item>
+			<Item Key="Core_HaveRun">累计开车</Item>
+			<Item Key="Core_InstallTime">购买于</Item>
+			<Item Key="Core_NeverRun">从来没开过</Item>
+			<Item Key="Core_Default_Description">这个铲车贵阳了。</Item>
 
 			<Item Key="HomeWelcome">欢迎</Item>
 			<Item Key="HomePreview">预览版本不代表最终体验</Item>
@@ -237,15 +237,15 @@
 			<Item Key="BakaXL.Pages.PageAddGameCore">添加核心向导</Item>
 
 			<Item Key="Minecraft_AuthMode_Offline">离线模式</Item>
-			<Item Key="Minecraft_AuthMode_Online">正版验证(Mojang)</Item>
-			<Item Key="Minecraft_AuthMode_Online_Microsoft">正版验证(微软账户)</Item>
+			<Item Key="Minecraft_AuthMode_Online">正版验证(Bugjump)</Item>
+			<Item Key="Minecraft_AuthMode_Online_Microsoft">正版验证(巨硬账户)</Item>
 			<Item Key="Minecraft_AuthMode_ThirdParty">外置登录(authlib-injector)</Item>
 
 			<Item Key="ProfileBtn_Offline">离线验证模式</Item>
-			<Item Key="ProfileBtn_Online">Mojang账户正版</Item>
-			<Item Key="ProfileBtn_Microsoft">微软账户正版</Item>
+			<Item Key="ProfileBtn_Online">Bugjump账户正版</Item>
+			<Item Key="ProfileBtn_Microsoft">巨硬账户正版</Item>
 			<Item Key="ProfileBtn_ThirdParty">第三方验证模式</Item>
-			<Item Key="ProfileBtn_UnableToUse">无法使用</Item>
+			<Item Key="ProfileBtn_UnableToUse">这啥玩意</Item>
 
 			<Item Key="Hide">隐藏</Item>
 			<Item Key="Show">显示</Item>
@@ -255,7 +255,7 @@
 			<Item Key="Continue">继续</Item>
 			<Item Key="NextStep">下一步</Item>
 			<Item Key="PreviousStep">上一步</Item>
-			<Item Key="Unavailable">不可用</Item>
+			<Item Key="Unavailable">没得用</Item>
 			<Item Key="Login">登录</Item>
 			<Item Key="LearnMore">了解更多</Item>
 			<Item Key="Edit">编辑</Item>
